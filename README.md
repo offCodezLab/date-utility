@@ -2,13 +2,16 @@
 
 A simple single page application created with react and cra
 
-##Features
+## Features
+
 Date Utility has following features:
 
-###Age calculator
+### `Age calculator`
+
 You can calculate your age using Date Utility
 
-###Date diffrence calculator
+### `Date diffrence calculator`
+
 Also, you have an option to calculate difference between two given dates
 
-##That is all
+## That is all
